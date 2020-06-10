@@ -17,14 +17,14 @@
   - 전통문화사업 연구개발 프로젝트 : 전형지원 뷰어 프로그램 개발(WPF)
 
 ### KIOSK 전자증명서 발급 서비스
-<img src ="/Image/KIOSK메인.png" width="400px"></img>
+<img src ="/Image/KIOSK메인.png" width="400px"></img>   
 **소개**
 대학 전자증명서 발급 및 출력 서비스 입니다.
 - **핵심기술** : Unity3D, .NET Framework
 - **참여 파트** : 증명서 신청, 프린터 출력 등
 
 ### 풋볼 팬타지움 가상유니폼 피팅 서비스
-<img src ="/Image/풋볼팬타지움가상유니폼.png" width="400px"></img>
+<img src ="/Image/풋볼팬타지움가상유니폼.png" width="400px"></img>   
 **소개**
 여러국가의 축구팀 유니폼을 Kinect를 사용하여 피팅해볼 수 있는 서비스입니다.
 3D/2D 2가지의 피팅모드를 지원합니다.
@@ -46,7 +46,7 @@
 ## 개인/팀 프로젝트
 ### 펭귄그라운드
 <img src ="/Image/펭귄그라운드_Main.PNG" width="400px"></img>
-<img src ="/Image/펭귄그라운드_게임.PNG" width="400px"></img>
+<img src ="/Image/펭귄그라운드_게임.PNG" width="400px"></img>   
 [Github Repository](https://github.com/CBorange/PenguinGround)   
 [Youtube](https://www.youtube.com/watch?v=yNLL3UpdCtE)
 
