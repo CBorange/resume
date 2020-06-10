@@ -78,7 +78,7 @@
 
 ### ChatProgram
 <img src ="/Image/ChatProgram_Main.PNG" width="400px"></img>
-<img src ="/Image/ChatProgram_In.PNG" width="400px"></img>
+<img src ="/Image/ChatProgram_In.PNG" width="400px"></img>   
 [Github 저장소](https://github.com/CBorange/ChatProgram)   
 
 **소개**   
