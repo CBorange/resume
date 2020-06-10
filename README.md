@@ -52,7 +52,7 @@
 ### 펭귄그라운드
 <img src ="/Image/펭귄그라운드_Main.PNG" width="400px"></img>
 <img src ="/Image/펭귄그라운드_게임.PNG" width="400px"></img>   
-[Github Repository](https://github.com/CBorange/PenguinGround)   
+[Github 저장소](https://github.com/CBorange/PenguinGround)   
 [Youtube](https://www.youtube.com/watch?v=yNLL3UpdCtE)
 
 **소개**   
@@ -65,7 +65,7 @@
 ### MimePark
 <img src ="/Image/MimePark_Main.PNG" width="400px"></img>
 <img src ="/Image/MimePark_Game.PNG" width="400px"></img>
-[Github Repository](https://github.com/CBorange/MimePark)   
+[Github 저장소](https://github.com/CBorange/MimePark)   
 [Youtube](https://www.youtube.com/watch?v=VbJTDTyi_pg)
 
 **소개**   
@@ -79,7 +79,7 @@
 ### ChatProgram
 <img src ="/Image/ChatProgram_Main.PNG" width="400px"></img>
 <img src ="/Image/ChatProgram_In.PNG" width="400px"></img>
-[Github Repository](https://github.com/CBorange/ChatProgram)   
+[Github 저장소](https://github.com/CBorange/ChatProgram)   
 
 **소개**   
 네트워크 프로그래밍 연습을 위하여 개발한 프로그램입니다.   
@@ -92,10 +92,10 @@ TCP/IP 소켓 기능을 사용하여 개발하였으며, 1:N 통신을 지원합
 
 ### ProejctPocket
 <img src ="/Image/ProjectPocket_Main.PNG" width="400px"></img>
-<img src ="/Image/ProjectPocket_Game.png" width="400px"></img>
-[Github Repository](https://github.com/CBorange/ChatProgram)  
+<img src ="/Image/ProjectPocket_Game.png" width="400px"></img>   
+[Github 저장소](https://github.com/CBorange/ChatProgram)  
 [Youtube](https://www.youtube.com/watch?v=VbJTDTyi_pg)   
-[PortFolio](PDF/이태준_포트폴리오_ProjectPocket.pdf)
+[소개 PDF](PDF/이태준_포트폴리오_ProjectPocket.pdf)
 
 **소개**   
 3D RPG/어드벤처 장르의 게임입니다.   
