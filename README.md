@@ -112,7 +112,7 @@ DirectX를 사용하여 간단한 **프레임워크**를 제작하여 개발하�
 
 ### MimePark
 <img src ="/Image/MimePark_Main.PNG" width="400px"></img>
-<img src ="/Image/MimePark_Game.PNG" width="400px"></img>
+<img src ="/Image/MimePark_Game.PNG" width="400px"></img>   
 [Github 저장소](https://github.com/CBorange/MimePark)   
 [Youtube](https://www.youtube.com/watch?v=VbJTDTyi_pg)
 
