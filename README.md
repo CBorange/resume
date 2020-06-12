@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-<img src ="/Image/이력서사진.jpg" width="200px"></img>
+<img src ="Image/이력서사진.jpg" width="200px"></img>
 - 이름 : 이태준
 - Email : ltjbs2020@gmail.com
 - Github : https://github.com/CBorange
@@ -23,7 +23,7 @@
   - 전통문화사업 연구개발 프로젝트 : 전형지원 뷰어 프로그램 개발(**WPF**)
 
 ### KIOSK 전자증명서 발급 서비스
-<img src ="/Image/KIOSK메인.png" width="400px"></img>   
+<img src ="Image/KIOSK메인.png" width="400px"></img>   
 **소개**   
 대학 전자증명서 발급 및 출력 서비스 입니다.
 - **핵심기술** : Unity3D, .NET Framework
@@ -33,7 +33,7 @@
 맡아서 진행하였습니다.
 
 ### 풋볼 팬타지움 가상유니폼 피팅 서비스
-<img src ="/Image/풋볼팬타지움가상유니폼.png" width="400px"></img>   
+<img src ="Image/풋볼팬타지움가상유니폼.png" width="400px"></img>   
 **소개**   
 여러국가의 축구팀 유니폼을 Kinect를 사용하여 피팅해볼 수 있는 서비스입니다.   
 3D/2D 2가지의 피팅모드를 지원합니다.
@@ -45,7 +45,7 @@ Unity/NGUI를 사용하여 2D 피팅모드 개발을 맡아서 참여하였습�
 
 
 ### 전형지원 시험 프로그램
-<img src ="/Image/전형지원사용자메인.PNG" width="400px"></img>   
+<img src ="Image/전형지원사용자메인.PNG" width="400px"></img>   
 **소개**   
 전통문화 사업 초 그리기 전형 시험 지원 프로그램입니다.
 - **핵심기술** : Unity3D, DLL/외부 라이브러리(FFmpeg 등)연동
@@ -56,7 +56,7 @@ Unity/NGUI를 사용하여 2D 피팅모드 개발을 맡아서 참여하였습�
 (UI 기능/레이아웃, 시험 데이터 로드 및 저장 등)을 수행하였습니다.
 
 ### 전형지원 시험 결과 뷰어 프로그램
-<img src ="/Image/전형지원뷰어메인.PNG" width="400px"></img>   
+<img src ="Image/전형지원뷰어메인.PNG" width="400px"></img>   
 **소개**   
 전통문화 사업 관리자용 시험 결과 뷰어 프로그램입니다.
 - **핵심기술** : WPF/.NET, Xml
@@ -67,8 +67,8 @@ Unity/NGUI를 사용하여 2D 피팅모드 개발을 맡아서 참여하였습�
 
 ## 개인/팀 프로젝트
 ### ProejctPocket
-<img src ="/Image/ProjectPocket_Main.PNG" width="400px"></img>
-<img src ="/Image/ProjectPocket_Game.png" width="400px"></img>   
+<img src ="Image/ProjectPocket_Main.PNG" width="400px"></img>
+<img src ="Image/ProjectPocket_Game.png" width="400px"></img>   
 [Github 저장소](https://github.com/CBorange/ProjectPocket)   
 [Youtube](https://www.youtube.com/watch?v=OsQzUh0tzYc&t=54s)   
 [소개 PDF](https://drive.google.com/file/d/1FJix5ud8q9E7WiXRBhIK7230BgnX1NP-/view?usp=sharing)
@@ -83,8 +83,8 @@ Unity/NGUI를 사용하여 2D 피팅모드 개발을 맡아서 참여하였습�
 Coroutine/Task 비동기 처리
 
 ### ChatProgram
-<img src ="/Image/ChatProgram_Main.PNG" width="400px"></img>
-<img src ="/Image/ChatProgram_In.PNG" width="400px"></img>   
+<img src ="Image/ChatProgram_Main.PNG" width="400px"></img>
+<img src ="Image/ChatProgram_In.PNG" width="400px"></img>   
 [Github 저장소](https://github.com/CBorange/ChatProgram)   
 
 **소개**   
@@ -96,13 +96,14 @@ TCP/IP 소켓 기능을 사용하여 개발하였으며, 1:N 통신을 지원합
 - **핵심 기술** : WPF, MVVM, Socket Programing, 자체 통신 프로토콜 개발
 
 ### 펭귄그라운드
-<img src ="/Image/펭귄그라운드_Main.PNG" width="400px"></img>
-<img src ="/Image/펭귄그라운드_게임.PNG" width="400px"></img>   
+<img src ="Image/펭귄그라운드_Main.PNG" width="400px"></img>
+<img src ="Image/펭귄그라운드_게임.PNG" width="400px"></img>   
 [Github 저장소](https://github.com/CBorange/PenguinGround)   
 [Youtube](https://www.youtube.com/watch?v=yNLL3UpdCtE)
 
 **소개**   
 팀 프로젝트로 개발한 2D 플랫포머 대전 슈팅게임입니다.   
+각 플레이어는 서로에게 눈덩이를 발사하여 먼저 쓰러뜨리면 승리하는 게임입니다.
 - **개발 기간** : 2017.09~10 (약 1개월)
 - **개발 인원** : 3명
 - **참여 파트** :   
@@ -111,8 +112,8 @@ DirectX를 사용하여 간단한 **프레임워크**를 제작하여 개발하�
 - **핵심 기술** : WinAPI, DirectX9, 게임 프레임워크 개발, ObjectPooling
 
 ### MimePark
-<img src ="/Image/MimePark_Main.PNG" width="400px"></img>
-<img src ="/Image/MimePark_Game.PNG" width="400px"></img>   
+<img src ="Image/MimePark_Main.PNG" width="400px"></img>
+<img src ="Image/MimePark_Game.PNG" width="400px"></img>   
 [Github 저장소](https://github.com/CBorange/MimePark)   
 [Youtube](https://www.youtube.com/watch?v=VbJTDTyi_pg)
 
