@@ -57,7 +57,7 @@
 <img src ="/Image/ProjectPocket_Game.png" width="400px"></img>   
 [Github 저장소](https://github.com/CBorange/ProjectPocket)   
 [Youtube](https://www.youtube.com/watch?v=OsQzUh0tzYc&t=54s)   
-[소개 PDF](PDF/이태준_포트폴리오.pdf)
+[소개 PDF](https://drive.google.com/file/d/1FJix5ud8q9E7WiXRBhIK7230BgnX1NP-/view?usp=sharing)
 
 **소개**   
 3D RPG/어드벤처 장르의 게임입니다.   
