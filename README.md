@@ -5,10 +5,10 @@
 - 이름 : 이태준
 - Email : ltjbs2020@gmail.com
 - Github : https://github.com/CBorange
-- 병역 : 현재 산업기능요원 복무중입니다.
-- 사용 기술 : **MFC, Winform, WPF, Unity3D, DirectX, ASP.NET/Blazor**
+- 병역 : 현역 산업기능요원 복무중입니다. (2020-10 ~ 2023~10)
+- 사용 기술 : **Winform, WPF, Unity3D, DirectX, ASP.NET/Blazor, SQL(PostgreSQL)**
 
-내가 작성한 코드는 언제든지 상황에 따라서 수정될 수 있다고 생각합니다.   
+다른 사람이 읽기 편한 코드가 좋은 코드라고 생각합니다.
 항상 추가/수정이 용이한 코드를 작성할 수 있도록 노력합니다.
 
 
@@ -21,11 +21,12 @@
   - 풋볼 팬타지움 가상 유니폼 피팅 서비스 개발&유지보수(**Unity3D**)
   - 전통문화사업 연구개발 프로젝트 : 전형지원 시험 프로그램 개발(**Unity3D**)
   - 전통문화사업 연구개발 프로젝트 : 전형지원 뷰어 프로그램 개발(**WPF**)
+  - 
 - **하이컴텍** TF팀 근무 (2020.07~)
   - 건축 견적/공사 관리 솔루션 커튼월 프로그램 개발(**Winform**)
   - 건축자재 재단 솔루션 프로그램 개발(**MFC**)
   - 솔루션 프로그램 실행 런처 개발(**MFC**)
-  - 신규 건축자재 관리 솔루션 프로그램 개발(**ASP.NET Core/Blazor**)
+  **- 창호/샤시 작도/견적 웹 프로그램 CAD엔진 개발(**ASP.NET Core/Blazor**)**
 
 ### KIOSK 전자증명서 발급 서비스
 <img src ="Image/KIOSK메인.png" width="400px"></img>   
